@@ -9,11 +9,11 @@
 <parameter name="os" value="Windows"/>
 <parameter name="browser" value="chrome"/>
 <classes>
-<!--<class name="testCases.Tc_001_AccountRegistrationTest"/>
-<class name="testCases.TC_002_LoginTest"/>-->
+<!--<class name="testCases.Tc_001_AccountRegistrationTest"/>-->
+   <class name="testCases.TC_002_LoginTest"/>
  <!--<class name="testCases.TC_003_LoginDDT"/>-->
  <class name="testCases.TC_004_SearchProductTest"></class>
- <class name="testCases.TC_005_AddToCartPageTest"></class>
+ <!--<class name="testCases.TC_005_AddToCartPageTest"></class>-->
  <!--<class name="testCases.TC_006_EndToEndTest"></class>-->
 </classes>
 </test>
