@@ -1,0 +1,33 @@
+17:46:44.440 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Entering customer details.. 
+17:46:58.391 [main] ERROR testCases.Tc_001_AccountRegistrationTest - test failed..
+17:47:01.842 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+17:47:01.842 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+17:47:02.039 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+17:47:02.831 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+17:47:02.839 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+17:47:03.197 [main] INFO  testCases.TC_002_LoginTest - clicked on login button..
+17:47:06.286 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+13:47:01.911 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+13:47:02.237 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+13:50:48.926 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+13:56:45.895 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+13:57:07.798 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+13:57:44.331 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+13:58:06.006 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+14:07:45.062 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+14:22:06.762 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+14:26:29.200 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+14:31:45.303 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+14:37:07.536 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+14:37:19.187 [main] INFO  testCases.TC_005_AddToCartPageTest -  product exist 
+14:37:29.200 [main] INFO  testCases.TC_005_AddToCartPageTest -  selecting product  
+14:45:43.094 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+14:50:56.329 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+15:09:01.514 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+15:19:40.877 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+15:20:50.367 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+16:08:35.952 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+16:08:37.827 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+16:10:27.374 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+16:10:29.215 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+16:10:32.151 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 

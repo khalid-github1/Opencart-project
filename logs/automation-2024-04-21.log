@@ -1,0 +1,51 @@
+17:34:52.247 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on registration link
+17:34:52.254 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Entering customer details.. 
+17:34:55.827 [main] ERROR testCases.Tc_001_AccountRegistrationTest - test failed..
+17:35:58.063 [main] INFO  testCases.Tc_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+17:35:58.074 [main] DEBUG testCases.Tc_001_AccountRegistrationTest - application logs started......
+17:35:58.557 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on MyAccount link
+17:35:59.436 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on registration link
+17:35:59.436 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Entering customer details.. 
+17:36:03.048 [main] ERROR testCases.Tc_001_AccountRegistrationTest - test failed..
+11:19:04.193 [main] INFO  testCases.Tc_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+11:19:04.202 [main] DEBUG testCases.Tc_001_AccountRegistrationTest - application logs started......
+11:19:04.412 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on MyAccount link
+11:19:05.402 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on registration link
+11:19:05.402 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Entering customer details.. 
+11:19:10.067 [main] ERROR testCases.Tc_001_AccountRegistrationTest - test failed..
+10:15:33.760 [main] INFO  testCases.Tc_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+10:15:33.784 [main] DEBUG testCases.Tc_001_AccountRegistrationTest - application logs started......
+10:15:33.971 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on MyAccount link
+10:15:35.049 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on registration link
+10:15:35.049 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Entering customer details.. 
+10:15:39.921 [main] ERROR testCases.Tc_001_AccountRegistrationTest - test failed..
+10:15:43.993 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+10:15:43.993 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+10:15:44.146 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+10:15:45.119 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+10:15:45.123 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+10:15:45.586 [main] INFO  testCases.TC_002_LoginTest - clicked on login button..
+10:15:48.719 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+10:16:54.532 [main] INFO  testCases.Tc_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+10:16:54.536 [main] DEBUG testCases.Tc_001_AccountRegistrationTest - application logs started......
+10:16:55.359 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on MyAccount link
+10:16:56.099 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on registration link
+10:16:56.099 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Entering customer details.. 
+10:17:00.908 [main] ERROR testCases.Tc_001_AccountRegistrationTest - test failed..
+12:59:36.737 [main] INFO  testCases.Tc_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+12:59:36.743 [main] DEBUG testCases.Tc_001_AccountRegistrationTest - application logs started......
+12:59:36.942 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on MyAccount link
+12:59:37.847 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on registration link
+12:59:37.847 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Entering customer details.. 
+12:59:42.553 [main] ERROR testCases.Tc_001_AccountRegistrationTest - test failed..
+12:59:45.929 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+12:59:45.929 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+12:59:46.080 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+12:59:46.859 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+12:59:46.864 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+12:59:47.212 [main] INFO  testCases.TC_002_LoginTest - clicked on login button..
+12:59:50.302 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+17:46:43.430 [main] INFO  testCases.Tc_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+17:46:43.439 [main] DEBUG testCases.Tc_001_AccountRegistrationTest - application logs started......
+17:46:43.651 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on MyAccount link
+17:46:44.440 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on registration link

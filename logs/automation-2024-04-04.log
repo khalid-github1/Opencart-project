@@ -1,0 +1,48 @@
+18:01:49.820 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on MyAccount link
+18:01:49.826 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+18:01:49.831 [TestNG-tests-2] DEBUG testCases.Tc_001_AccountRegistrationTest - application logs started......
+18:01:50.015 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on MyAccount link
+18:01:50.929 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on registration link
+18:01:50.929 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationTest - Entering customer details.. 
+18:01:51.135 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on registration link
+18:01:51.136 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationTest - Entering customer details.. 
+18:01:56.130 [TestNG-tests-1] ERROR testCases.Tc_001_AccountRegistrationTest - test failed..
+18:01:56.131 [TestNG-tests-1] DEBUG testCases.Tc_001_AccountRegistrationTest - debug logs....
+18:01:56.482 [TestNG-tests-2] ERROR testCases.Tc_001_AccountRegistrationTest - test failed..
+18:01:56.482 [TestNG-tests-2] DEBUG testCases.Tc_001_AccountRegistrationTest - debug logs....
+18:06:56.922 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+18:06:56.930 [TestNG-tests-2] DEBUG testCases.Tc_001_AccountRegistrationTest - application logs started......
+18:06:57.553 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on MyAccount link
+18:06:57.595 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+18:06:57.596 [TestNG-tests-1] DEBUG testCases.Tc_001_AccountRegistrationTest - application logs started......
+18:06:57.830 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on MyAccount link
+18:06:58.638 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on registration link
+18:06:58.639 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationTest - Entering customer details.. 
+18:06:59.144 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on registration link
+18:06:59.144 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationTest - Entering customer details.. 
+18:07:03.730 [TestNG-tests-2] ERROR testCases.Tc_001_AccountRegistrationTest - test failed..
+18:07:03.730 [TestNG-tests-2] DEBUG testCases.Tc_001_AccountRegistrationTest - debug logs....
+18:07:04.172 [TestNG-tests-1] ERROR testCases.Tc_001_AccountRegistrationTest - test failed..
+18:07:04.173 [TestNG-tests-1] DEBUG testCases.Tc_001_AccountRegistrationTest - debug logs....
+18:21:49.229 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+18:21:49.238 [TestNG-tests-1] DEBUG testCases.Tc_001_AccountRegistrationTest - application logs started......
+18:21:49.614 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on MyAccount link
+18:21:50.775 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+18:21:50.776 [TestNG-tests-2] DEBUG testCases.Tc_001_AccountRegistrationTest - application logs started......
+18:21:51.253 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on registration link
+18:21:51.253 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationTest - Entering customer details.. 
+18:21:51.271 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on MyAccount link
+18:21:52.380 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on registration link
+18:21:52.381 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationTest - Entering customer details.. 
+18:21:56.238 [TestNG-tests-1] ERROR testCases.Tc_001_AccountRegistrationTest - test failed..
+18:21:56.238 [TestNG-tests-1] DEBUG testCases.Tc_001_AccountRegistrationTest - debug logs....
+18:21:57.073 [TestNG-tests-2] ERROR testCases.Tc_001_AccountRegistrationTest - test failed..
+18:21:57.074 [TestNG-tests-2] DEBUG testCases.Tc_001_AccountRegistrationTest - debug logs....
+18:22:45.890 [main] INFO  testCases.Tc_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+18:22:45.895 [main] DEBUG testCases.Tc_001_AccountRegistrationTest - application logs started......
+18:22:46.080 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on MyAccount link
+18:22:46.820 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on registration link
+18:22:46.821 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Entering customer details.. 
+18:22:51.551 [main] ERROR testCases.Tc_001_AccountRegistrationTest - test failed..
+18:22:51.551 [main] DEBUG testCases.Tc_001_AccountRegistrationTest - debug logs....
+18:27:25.811 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
