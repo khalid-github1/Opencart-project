@@ -28,7 +28,7 @@ public SearchPage(WebDriver driver)
 	
 	public boolean isProductExist(String productName)
 	{
-		boolean flag=false;
+		boolean flag=true;
 		for(WebElement product:searchProducts)
 		{				
 			if(product.getAttribute("title").equals(productName))
